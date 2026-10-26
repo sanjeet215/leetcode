@@ -17,7 +17,7 @@ src/test/java/io/github/sanjeet215/leetcode/<pattern>/<ProblemName>Test.java
 ```
 
 Packages are patterns, not difficulty, because interviews test pattern recognition:
-`hashing`, `slidingwindow`, `twopointers`, `binarysearch`, `intervals`, `heap`, `monotonicstack`,
+`hashing`, `linkedlist`, `slidingwindow`, `twopointers`, `binarysearch`, `intervals`, `heap`, `monotonicstack`,
 `graph`, `tree`, `backtracking`, `dp`, `trie`, `unionfind`.
 
 ## Conventions for each new problem
@@ -51,3 +51,4 @@ public class ProblemName {
 | # | Problem | Pattern | Difficulty |
 |---|---------|---------|------------|
 | 1 | [Two Sum](src/main/java/io/github/sanjeet215/leetcode/hashing/TwoSum.java) | Hashing | Easy |
+| 2 | [Add Two Numbers](src/main/java/io/github/sanjeet215/leetcode/linkedlist/AddTwoNumbers.java) | Linked list | Medium |
