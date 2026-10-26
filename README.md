@@ -52,3 +52,4 @@ public class ProblemName {
 |---|---------|---------|------------|
 | 1 | [Two Sum](src/main/java/io/github/sanjeet215/leetcode/hashing/TwoSum.java) | Hashing | Easy |
 | 2 | [Add Two Numbers](src/main/java/io/github/sanjeet215/leetcode/linkedlist/AddTwoNumbers.java) | Linked list | Medium |
+| 167 | [Two Sum II - Input Array Is Sorted](src/main/java/io/github/sanjeet215/leetcode/twopointers/TwoSumII.java) | Two pointers | Medium |
