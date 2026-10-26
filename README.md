@@ -54,4 +54,5 @@ public class ProblemName {
 | 2 | [Add Two Numbers](src/main/java/io/github/sanjeet215/leetcode/linkedlist/AddTwoNumbers.java) | Linked list | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](src/main/java/io/github/sanjeet215/leetcode/twopointers/TwoSumII.java) | Two pointers | Medium |
 | 125 | [Valid Palindrome](src/main/java/io/github/sanjeet215/leetcode/twopointers/ValidPalindrome.java) | Two pointers | Easy |
+| 15 | [3Sum](src/main/java/io/github/sanjeet215/leetcode/twopointers/ThreeSum.java) | Two pointers | Medium |
 | 20 | [Valid Parentheses](src/main/java/io/github/sanjeet215/leetcode/stack/ValidParentheses.java) | Stack | Easy |
