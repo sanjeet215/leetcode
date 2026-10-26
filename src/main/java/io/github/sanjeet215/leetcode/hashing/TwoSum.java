@@ -12,9 +12,12 @@ import java.util.Map;
  * the two numbers that add up to {@code target}. Exactly one solution exists, and the same
  * element may not be used twice. The indices can be returned in any order.
  * <p>
- * Pattern: TODO. Key idea: TODO.
+ * Pattern: hashing (complement lookup). Key idea: for each {@code x}, the partner needed is
+ * {@code target - x}. Store each value's index in a map and check for the complement before
+ * inserting, so an element never pairs with itself and duplicates like {@code [3,3]} still work.
+ * Brute force (check every pair) is O(n^2).
  * <p>
- * Time: O(?). Space: O(?).
+ * Time: O(n) - one pass, O(1) average map lookup. Space: O(n) for the map.
  */
 public class TwoSum {
 
